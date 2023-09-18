@@ -8,7 +8,7 @@ tags: []
 
 # Tales of two counties Obsidian vault
 
-This is the obsidian vault for Tales of Two counties. Feel free to start with the intro to the campaign.
+This is the obsidian vault for Tales of Two counties. Feel free to start with the [[1695026920-two-counties|intro]] to the campaign.
 
 ## Links
 

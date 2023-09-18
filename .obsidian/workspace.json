@@ -11,8 +11,12 @@
             "id": "3076598e4dcff800",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1694976235-bredegar.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1694976235-bredegar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1694976235-bredegar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1694976235-bredegar.md"
+              }
             }
           }
         ]
@@ -140,6 +148,20 @@
   },
   "active": "3076598e4dcff800",
   "lastOpenFiles": [
+    "1694905688-saelihn-araxisys.md",
+    "1695026485-ithegar.md",
+    "assets/bonebreaker_dorokor_bredegar_edmund.png",
+    "assets/bredegar_keep.png",
+    "assets/tarraton.png",
+    "assets/gravesford.png",
+    "assets/saelihn.png",
+    "assets/note_mallec.png",
+    "assets/lady_ruth.png",
+    "assets/python_crook.png",
+    "assets/lincoln_innkeep.jpg",
+    "assets/saelihn_anime.png",
+    "1695027745-bredegar-of-ashor-baron.md",
+    "assets",
     "tales_of_two_counties_vault",
     "4913",
     "1695038777-the-death-of-the-baron.md",
@@ -164,8 +186,6 @@
     "1695039906-alex-gaarder.md",
     "1695039897-durhelim-galatog.md",
     "1695039692-marine-and-sea-forces.md",
-    "1695039664-sir-barlow.md",
-    "1695039651-lady-ruth.md",
-    "1695039627-sir-pelliton.md"
+    "1695039664-sir-barlow.md"
   ]
 }

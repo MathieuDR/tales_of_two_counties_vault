@@ -6,3 +6,5 @@ tags: []
 ---
 
 # Bonebreaker Dorokor
+
+![[assets/bonebreaker_dorokor_bredegar_edmund.png]]

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadME.md",
+                "file": "People and Creatures/1695039206-general-saxton.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadME.md",
+                "file": "People and Creatures/1695039206-general-saxton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadME.md",
+                "file": "People and Creatures/1695039206-general-saxton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadME.md"
+                "file": "People and Creatures/1695039206-general-saxton.md"
               }
             }
           }
@@ -146,18 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c69ed232ad372bed",
+  "active": "9ee38e1abb73ea25",
   "lastOpenFiles": [
-    "1695026485-ithegar.md",
-    "1695026460-ashor.md",
-    "1695026920-two-counties.md",
-    "ReadME.md",
+    "Places/1695038431-bedegar-keep.md",
+    "1695039192-fort-bedegar.md",
+    "People and Creatures/1695027745-bedegar-of-ashor-baron.md",
+    "Places/1694976661-academia-silvarum.md",
+    "People and Creatures/1694905416-haera-qlynfir.md",
+    "Places",
+    "Organisations and Groups",
+    "People and Creatures",
+    "Places/1694976676-academia-caelorum.md",
     "2023-09-18.md",
-    "1694905447-the-zilubania.md",
+    "ReadME.md",
+    "Places/1695026485-ithegar.md",
+    "Places/1695026460-ashor.md",
+    "1695026920-two-counties.md",
+    "Organisations and Groups/1694905447-the-zilubania.md",
     "4913",
-    "1694976661-academia-silvarum.md",
-    "1694976235-bedegar.md",
-    "1694905688-saelihn-araxisys.md",
+    "Places/1694976235-bedegar.md",
+    "People and Creatures/1694905688-saelihn-araxisys.md",
     "assets/bonebreaker_dorokor_bredegar_edmund.png",
     "assets/bredegar_keep.png",
     "assets/tarraton.png",
@@ -172,20 +180,15 @@
     "assets",
     "tales_of_two_counties_vault",
     "1695038777-the-death-of-the-baron.md",
-    "1695040757-helm-fletcher.md",
+    "People and Creatures/1695040757-helm-fletcher.md",
     "1695040758-helm-fletcher.md",
-    "1695040724-order-of-the-silvered-moon.md",
-    "1695040277-hts-pony.md",
-    "1695041279-bonebreaker-dorokor.md",
-    "1695041222-alsira-leader.md",
-    "1695041131-the-pythons.md",
-    "1695040908-castle-ruins-party.md",
-    "1695040830-the-blue-dragon-phalanx.md",
-    "1695040566-order-of-the-lightseeker.md",
-    "1695040356-stod-pairhoof.md",
-    "1695040349-thadad-earthfinger.md",
-    "1695040339-henry-morren.md",
-    "1695040223-LTZY.md",
-    "1695039926-hjaldar.md"
+    "Organisations and Groups/1695040724-order-of-the-silvered-moon.md",
+    "Organisations and Groups/1695040277-hts-pony.md",
+    "People and Creatures/1695041279-bonebreaker-dorokor.md",
+    "People and Creatures/1695041222-alsira-leader.md",
+    "Organisations and Groups/1695041131-the-pythons.md",
+    "Places/1695040908-castle-ruins-party.md",
+    "Organisations and Groups/1695040830-the-blue-dragon-phalanx.md",
+    "Organisations and Groups/1695040566-order-of-the-lightseeker.md"
   ]
 }

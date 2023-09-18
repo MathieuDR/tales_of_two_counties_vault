@@ -1,16 +1,16 @@
 ---
-id: "1694976661-academia-silvarum"
+id: 1694976661-academia-silvarum
 aliases:
-  - "Academia Silvarum."
+  - Academia Silvarum
 tags:
-  - "two-counties"
-  - "location"
-  - "bedegar"
-  - "magic"
-  - "schools"
+  - two-counties
+  - location
+  - bedegar
+  - magic
+  - schools
 ---
 
-# Academia Silvarum.
+# Academia Silvarum
 
 The Second, or first depending on who you're asking, magical School in both counties.
 

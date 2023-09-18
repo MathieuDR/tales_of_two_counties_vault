@@ -13,4 +13,4 @@ This is probably one of the most secure places in all of [[1695026460-ashor|Asho
 
 Once every season, there is a festial celebration within the walls where the Baron bedegar and his family celebrated their past Victories and welcoming upcomming challenges.
 
-![[assets/bedegar_keep]]
+![[assets/bedegar_keep|The keep of bedegar]]

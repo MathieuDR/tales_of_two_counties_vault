@@ -1,7 +1,7 @@
 ---
 id: "1695026920-two-counties"
 aliases:
-  - "two-counties"
+  - "Two counties"
   - "The Tale of two counties"
   - "The Tale of Two Counties"
 tags:
@@ -26,3 +26,7 @@ It didn't take long and with the river between them, these two Counties.. like t
 And after generations of war, and countless deaths on both ends, between these two, Baron [[1695027745-bedegar-of-ashor-baron|Bedegar of Ashor]] and Baroness [[1695027773-maerwynn-of-taeris-baroness|Maerwynn of Taeris]] finally signed a truce. That was about 5 years ago.
 
 The diplomatic relations between these two are still tense and far away from relaxed but one can at least travel and trade in both lands freely as one wants. 
+
+## Map
+
+![[assets/two_counties_map.jpg|Map of two counties]]

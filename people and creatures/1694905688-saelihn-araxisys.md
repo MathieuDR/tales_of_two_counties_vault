@@ -1,16 +1,18 @@
 ---
-id: 1694905688-saelihn-araxisys
+id: "1694905688-saelihn-araxisys"
 aliases:
-  - Saelihn Araxisys
+  - "Saelihn Araxisys"
 tags:
-  - character
-  - wizard
-  - player
-  - saelihn
-  - shadar-kay
+  - "character"
+  - "wizard"
+  - "player"
+  - "saelihn"
+  - "shadar-kay"
 ---
 
 # Saelihn Araxisys
+
+![[saelihn.png|Saelihn in a black robe]]
 
 | Info     | Value                                               |
 | ----     | -----                                               |
@@ -58,3 +60,5 @@ As a wizard's apprentince, her goal was becoming a renowed wizard. She does love
 ### Appearance
 
 A pale, female elf with red hair. An elongated face and usually in darker clothing.
+
+![[saelihn_anime.png|Saelihn trying to solve a note]]

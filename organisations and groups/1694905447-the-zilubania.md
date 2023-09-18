@@ -11,7 +11,7 @@ tags:
 
 # The Zilubania
 
-A cloister east of [[1694976235-bedegar|Bredegar]] known for their peaceful mindfulness and gathering of knowledge and lore.
+A cloister east of [[1694976235-bedegar|Bedegar]] known for their peaceful mindfulness and gathering of knowledge and lore.
 
 ## Magical side gig
 

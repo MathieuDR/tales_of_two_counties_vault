@@ -1,5 +1,5 @@
 ---
-id: "1695038431-bredegar-keep"
+id: "1695038431-bedegar-keep"
 aliases:
   - "bedegar keep"
 tags:

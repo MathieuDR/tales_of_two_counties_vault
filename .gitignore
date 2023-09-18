@@ -1,0 +1,18 @@
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+
+# to exclude workspace cache specific to mobile devices
+.obsidian/workspace-mobile.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
+.obsidian/plugins
+
+# Allow data.json inside obsidian-tagfolder to be tracked
+!.obsidian/plugins/obsidian-tagfolder/data.json
+
+# Allow data.json from obsidian-front-matter-title-plugin
+!.obsidian/plugins/obsidian-front-matter-title-plugin/data.json

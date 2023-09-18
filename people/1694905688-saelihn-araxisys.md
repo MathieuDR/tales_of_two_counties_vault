@@ -3,11 +3,9 @@ id: "1694905688-saelihn-araxisys"
 aliases:
   - "Saelihn Araxisys"
 tags:
-  - "character"
-  - "wizard"
   - "player"
   - "saelihn"
-  - "shadar-kay"
+  - "party"
 ---
 
 # Saelihn Araxisys
@@ -22,6 +20,7 @@ tags:
 | Dad      | [[1694905425-tamnaeth-araxisys\|Tamnaeth Araxisys]] |
 | Teacher  | [[1694905442-mr-zylgwyn-loris\|Mr. Zylgwyn, Loris]] |
 | Cloister | [[1694905447-the-zilubania\|The Zilubania]]         |
+| Party    | [[1695039283-blitz-kreek\|Blitz kreek]]             |
 
 ## Character
 

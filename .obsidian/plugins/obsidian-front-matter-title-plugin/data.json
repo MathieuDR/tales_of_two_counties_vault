@@ -81,7 +81,7 @@
       "enabled": true
     },
     "explorer:sort": {
-      "enabled": false
+      "enabled": true
     },
     "tab": {
       "enabled": false
@@ -108,7 +108,7 @@
       "enabled": true
     },
     "backlink": {
-      "enabled": false
+      "enabled": true
     },
     "noteLink": {
       "enabled": false,

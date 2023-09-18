@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#nevrest  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 14.5833333333333,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 1,
+  "scale": 0.6666666666666666,
   "close": false
 }

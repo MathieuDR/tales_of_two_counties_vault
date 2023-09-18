@@ -1,8 +1,8 @@
 ---
 id: "1695039192-fort-bredegar"
 aliases:
-  - "Fort Bredegar"
+  - "Fort bedegar"
 tags: []
 ---
 
-# Fort Bredegar
+# Fort bedegar

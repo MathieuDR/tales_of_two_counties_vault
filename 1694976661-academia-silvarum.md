@@ -18,4 +18,4 @@ In here skill is inherited and you're nothing without a name. This leading to st
 
 ### Location
 
-[[1694976235-bredegar|Bredegar]].
+[[1694976235-bedegar|Bedegar]].

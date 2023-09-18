@@ -9,7 +9,7 @@ tags:
 
 # The death of the baron
 
-You've been told by [[1695027773-maerwynn-of-taeris-baroness|Baroness Maerwynn]], or as she was refered to "the Lady", that [[1695027745-bedegar-of-ashor-baron|Baron Bredegar]] and all of his family was killed by a group of [[1695039149-white-tusk-clan|white fanged orcs]]. That somehow made it into the [[1695039192-fort-bredegar|Fort Bredegar]] and killed everyone inside leaving [[1695039206-general-saxton|General Saxton]], as General and Commander of Ashors Military in charge of the whole County.
+You've been told by [[1695027773-maerwynn-of-taeris-baroness|Baroness Maerwynn]], or as she was refered to "the Lady", that [[1695027745-bedegar-of-ashor-baron|Baron bedegar]] and all of his family was killed by a group of [[1695039149-white-tusk-clan|white fanged orcs]]. That somehow made it into the [[1695039192-fort-bedegar|Fort bedegar]] and killed everyone inside leaving [[1695039206-general-saxton|General Saxton]], as General and Commander of Ashors Military in charge of the whole County.
 
 Who was absent at the time as he, and most of Ashors troups where out on a military training that day. This lack of security seems to be the perfect opportunity for the orcs to raid the fort.
 She asked the Party, now known as [[1695039283-blitz-kreek|Blitz Kreek]], to help her investigate this incident as it might break off the peace that was so hardly fought for.

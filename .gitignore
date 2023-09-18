@@ -16,3 +16,6 @@
 
 # Allow data.json from obsidian-front-matter-title-plugin
 !.obsidian/plugins/obsidian-front-matter-title-plugin/data.json
+
+# ripgrep
+.rgignore

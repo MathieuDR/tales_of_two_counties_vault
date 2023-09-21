@@ -1,5 +1,5 @@
 ---
-id: 2023-09-20
+id: champion-arena
 aliases:
   - The Champion of the Arena
 tags:

@@ -1,7 +1,7 @@
 ---
-id: 2023-09-20
+id: lincoln-innkeeper
 aliases:
-  - Lincoln, The Inkeeper
+  - Lincoln, The Innkeeper
 tags:
   - npc
 ---

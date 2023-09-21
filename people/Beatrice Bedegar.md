@@ -1,5 +1,5 @@
 ---
-id: 2023-09-21
+id: beatrice-bedegar
 aliases:
   - Beatrice Bedegar
   - Baroness Bedegar

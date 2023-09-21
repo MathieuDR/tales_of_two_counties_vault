@@ -2,5 +2,9 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "caption"
-  ]
+  ],
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,JetBrainsMonoMedium Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }

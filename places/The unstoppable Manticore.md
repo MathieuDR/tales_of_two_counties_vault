@@ -1,5 +1,5 @@
 ---
-id: 2023-09-20
+id: the-unstoppable-manticore
 aliases:
   - The unstoppable Manticore
 tags:

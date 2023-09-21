@@ -17,7 +17,7 @@ They are named after two ancient gem dragons that fought all their lives. [[1695
 
 Story has it that [[1695027091-taeris-dragon|Taeris]] heart, as it touched the ground after his death, formed [[1695027290-arrowhead-lake|Arrowhead Lake]] and made the Sea Level rise several meters to point where it is today. What happened to the rest of his body got lost in time. Some say it landed in the [[1695027312-stone-belt-mountains|Stone Belt Mountains]] and turned into the spring of the [[1695027041-river-styx|river Styx]] others think it just got vaporized.
 
-[[1695027120-ashor-dragon|Ashor]] on the other Hand, his Body got seperated and where it touched the ground, two mighty Forest sprang into existence. These were later known as the [[1695027548-garden-of-roots|Garden of Roots]] and the [[1695027560-forest-of-rent|Forest of Rent]]. Some say that his body parts can still be found in these woods but everybody who tried to find it, returned either empty handed or not at all.
+[[1695027120-ashor-dragon|Ashor]] on the other Hand, his Body got seperated and where it touched the ground, two mighty Forest sprang into existence. These were later known as the [[1695027548-garden-of-roots|Garden of Roots]] and the [[1695027560-forrest-of-rend|Forrest of Rend]]. Some say that his body parts can still be found in these woods but everybody who tried to find it, returned either empty handed or not at all.
 
 This was thousands of years ago, way before other races started to settle on these lands.
 

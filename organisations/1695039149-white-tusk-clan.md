@@ -17,12 +17,13 @@ This clan was hired by [[1695039206-general-saxton|Lord general Saxton]] to [[16
 
 Dorokor was on the other Hand smart enough to let the Barons Son alive so that Saxtons claim to Rule the county can be reverted.
 
-After a negotiation with the Party in the [[1695040908-castle-ruins-party|Castle Ruins]] inside of the [[1695027560-forest-of-rent|Forest of Rent]], the clan returned to their former territory in the [[1695027312-stone-belt-mountains|Stone Belt Mountains]].
+After a negotiation with the Party in the [[1695040908-castle-ruins-party|Castle Ruins]] inside of the [[1695027560-forrest-of-rend|Forrest of Rend]], the clan returned to their former territory in the [[1695027312-stone-belt-mountains|Stone Belt Mountains]].
 
 ## Goons
 
-![[white_tusk_orc.png|A white tusk orc|500]]
+![[white_tusk_orc.png|A white tusk orc|400]]
 
 ![[white_tusk_shaman.png|A white tusk shaman|400]]
 
 ![[white_tusk_warspeaker.png|A white tusk warspeakers|400]]
+![[juggernaut.png|400]]

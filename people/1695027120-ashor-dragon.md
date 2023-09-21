@@ -9,3 +9,4 @@ alias: "Ashor, dragon"
 ---
 
 # Ashor, dragon
+![[ashor,dragon.png]]

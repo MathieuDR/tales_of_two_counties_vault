@@ -1,13 +1,13 @@
 ---
-id: "1695027560-forest-of-rent"
+id: 1695027560-forrest-of-rend
 aliases:
-  - "Forest of Rent"
+  - Forrest of Rend
 tags:
-  - "two-counties"
-  - "location"
+  - two-counties
+  - location
 ---
 
-# Forest of Rent
+# Forrest of Rend
 
 This is [[1695026460-ashor|Ashor]]'s counterpart to [[1695026669-taeris|Taeris]]'s [[1695027548-garden-of-roots|Garden of Roots]] with the difference in size. It's roughly up to twice it size.
 

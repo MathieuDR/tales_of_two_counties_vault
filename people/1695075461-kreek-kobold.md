@@ -1,8 +1,10 @@
 ---
-id: "1695075461-kreek-kobold"
+id: 1695075461-kreek-kobold
 aliases:
-  - "Kreek, kobold"
-tags: []
+  - Kreek, kobold
+tags:
+  - npc
+  - party
 ---
 
 # Kreek, kobold

@@ -2,7 +2,7 @@
 id: "1695039897-durhelim-galatog"
 aliases:
   - "Durhelim Galatog"
-tags: []
+tags: [npc]
 ---
 
 # Durhelim Galatog

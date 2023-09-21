@@ -2,7 +2,7 @@
 id: "1695039906-alex-gaarder"
 aliases:
   - "Alex Gaarder"
-tags: []
+tags: [npc]
 ---
 
 # Alex Gaarder

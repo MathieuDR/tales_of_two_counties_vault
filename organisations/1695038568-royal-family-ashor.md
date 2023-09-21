@@ -1,8 +1,9 @@
 ---
-id: "1695038568-royal-family-ashor"
+id: 1695038568-royal-family-ashor
 aliases:
-  - "Royal Family, Ashor"
-tags: []
+  - Royal Family, Ashor
+tags:
+  - organization
 ---
 
 # Royal Family, Ashor

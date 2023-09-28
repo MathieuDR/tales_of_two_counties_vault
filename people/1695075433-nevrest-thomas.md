@@ -10,4 +10,4 @@ tags:
 
 # Nevrest, Thomas
 
-Part of the [[1695039283-blitz-kreek|Blitz kreek]] party.
+Part of the [[1695039283-blitz-kreek|Blitz kreek]] party. I hate HMS Ponies.

@@ -1,0 +1,11 @@
+In the bustling city of Bedegar, the Tanner family has built a reputable leather goods shop ( Tanners Tanning ) known for its high-quality products and warm hospitality. Led by the skilled leatherworker, Tobias, and assisted by his wife, Eliza, who is equally skilled in the art of herbalism and healing, the Tanner family's business has been a beloved fixture in the community.
+
+Their eldest son, [[1695075444-leon|Leon]], inherited his father's talent for leatherworking. However, a series of unfortunate events struck the family, putting a strain on their finances and the success of the shop. With the weight of responsibility on his shoulders, Leon made the difficult decision to enlist in the counties army to provide financial support for his family. Despite the hardships and the distance from home, Leon serves with bravery and determination, earning the respect of his fellow soldiers.
+
+Meanwhile, the middle child, James, took on the responsibility of managing the day-to-day operations of the shop. With his friendly and approachable demeanor, he has forged strong ties with local customers, ensuring the shop remains an integral part of Bedegar's merchant community.
+
+The youngest daughter, [[Amelia Tanner|Amelia]], is a beacon of creativity and enthusiasm. She uses her artistic talents to design unique leather accessories and assists her mother with dyeing. Amelia dreams of opening her own leather goods shop someday, inspired by her family's legacy.
+
+Despite the challenges they face, the Tanner family remains resilient and united. Leon's sacrifice in the army is deeply appreciated by Tobias and Eliza, who eagerly await his return. In his absence, the family stays in contact, with Leon sending whatever he can to help the family business thrive during his time away.
+
+Together, the Tanner family's unwavering love and support for one another have strengthened their bond through difficult times. They hold on to the hope of a brighter future for their family and their business. With Leon's determination on the battlefield and Amelia's creative aspirations, they envision a day when they can reunite and work together to make their leather shop flourish once again, ensuring that the Tanner family's legacy continues to thrive in the heart of [[1694976235-bedegar|Bedegar]]. 
